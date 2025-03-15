@@ -1,2 +1,7 @@
-# empezando_con_git_ONE
-Primera práctica profundizando en markdown, buenas practicas y formato de un repositorio en Github.
+<h1> Sistema de Registro</h1>
+
+- Estado del proyecto: En construcción.
+
+Para ejecutar el sistema:
+
+```nmp install react```
